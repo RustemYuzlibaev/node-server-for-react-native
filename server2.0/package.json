@@ -1,0 +1,16 @@
+{
+  "name": "server2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
